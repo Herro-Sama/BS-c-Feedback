@@ -1,3 +1,4 @@
 Adjustable monitors
 Fully working Unreal with C++ Functionality
 More Lectures
+Communication regarding events in the Academy
